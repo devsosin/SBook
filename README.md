@@ -16,3 +16,5 @@ DFS/BFS
 - 연구실 [설명, 코드](https://wolfy.tistory.com/276)
 - 연산자 끼워 넣기 [설명, 코드](https://wolfy.tistory.com/278)
 - 감시 피하기 [설명, 코드](https://wolfy.tistory.com/279)
+- 인구 이동 [설명, 코드](https://wolfy.tistory.com/281)
+- 블록 이동하기 [설명, 코드](https://wolfy.tistory.com/282)
