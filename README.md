@@ -24,3 +24,5 @@
 
 ## 이진탐색
 - 고정점 찾기 [설명, 코드](https://wolfy.tistory.com/284)
+- 공유기 설치 [설명, 코드](https://wolfy.tistory.com/285)
+- 가사 검색 [설명, 코드](https://wolfy.tistory.com/286)
